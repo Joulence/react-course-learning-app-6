@@ -6,10 +6,8 @@ This is a web application built with React and Firebase database tool to add mov
 
 ## Features
 
-- Users can select from a list of food items
-- Users can add food items to their cart
-- Users can remove items from their cart
-- Users can view their order summary
+- Users can add their own movies to the database
+- Users can fetch movies from the database
 
 ## Technologies Used
 
